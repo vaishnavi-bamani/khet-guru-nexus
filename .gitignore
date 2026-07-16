@@ -1,0 +1,15 @@
+# Database
+db.sqlite3
+
+# Virtual Environment
+DjangoEnv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Plant Disease Dataset
+datasets/disease/
